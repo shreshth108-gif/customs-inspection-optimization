@@ -2,7 +2,7 @@
 
 A probabilistic model of where customs should open containers to catch smuggled drugs, trading inspection cost against contraband that slips through.
 
-**TU/e · Probability Theory and Modelling (2WS20) · Nov 2023 – Jan 2024**
+**Probability Theory and Modelling · Nov 2023 – Jan 2024**
 
 <!-- REPORT_LINK -->
 
